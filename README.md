@@ -1,6 +1,6 @@
 ![Header](https://github.com/Just2Lex/Just2Lex/blob/main/assets/banner.png)
 
-# Hi there! 👋 I'm Alexey Jussoyev (aka Just2Lex)
+# Hi there! 👋 I'm Alexey Dzhussoev
 
 Aspiring QA Junior | GameDev Enthusiast | 3rd-Year Student
 
